@@ -16,14 +16,10 @@
     color: #FFF;
 }
 .main h1{
-	font-size: 2rem;
-	text-transform: uppercase;
-	font-family: 'Gabriola';
-}
-.main h2{
 	font-size: 5rem;
 	text-transform: uppercase;
 	font-family: 'Gabriola';
+}
 .main p{
 	margin-top: 20px;
 	font-size: 4rem;
