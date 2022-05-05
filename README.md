@@ -1,3 +1,3 @@
 ## surprise
 
--[Click this to watch] (https://arnurtemirkhan.github.io/arnur/)
+-[Click this to watch](https://arnurtemirkhan.github.io/arnur/)
