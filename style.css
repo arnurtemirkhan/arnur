@@ -18,11 +18,11 @@
 .main h1{
 	font-size: 5rem;
 	text-transform: uppercase;
-	font-family: 'Gabriola';
+	font-family: 'Century';
 }
 .main p{
 	margin-top: 20px;
 	font-size: 4rem;
-	font-family: 'Gabriola';
+	font-family: 'Century';
 	position: relative;
 }
