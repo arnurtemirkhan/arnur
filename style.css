@@ -11,9 +11,11 @@
 }
 .text-main{
 	position: relative;
-    text-align: center; 
-    top: 10%; 
-    color: #FFF;
+        text-align: center; 
+        top: 10%; 
+        color: #FFF;
+.main img{
+	border-radius: 50%;
 }
 .main h1{
 	font-size: 5rem;
