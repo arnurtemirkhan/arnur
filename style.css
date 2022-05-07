@@ -14,8 +14,6 @@
         text-align: center; 
         top: 10%; 
         color: #FFF;
-.main img{
-	border-radius: 50%;
 }
 .main h1{
 	font-size: 5rem;
@@ -27,4 +25,7 @@
 	font-size: 4rem;
 	font-family: 'Century';
 	position: relative;
+}
+.main img{
+	border-radius: 50%;
 }
